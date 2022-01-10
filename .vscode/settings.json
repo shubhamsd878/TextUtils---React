@@ -1,0 +1,5 @@
+{
+    "editor.scrollbar.scrollByPage": true,
+    "workbench.editor.wrapTabs": true,
+    "editor.mouseWheelZoom": true
+}
